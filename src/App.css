@@ -1,6 +1,7 @@
 .app {
   width: 100%;
   max-width: 700px;
+  
   margin: 50px auto;
   box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 30px 0px;
 }
